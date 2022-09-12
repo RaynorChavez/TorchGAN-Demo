@@ -1,0 +1,5 @@
+tganvenv/*
+images/*
+mnist/*
+model/*
+runs/*
